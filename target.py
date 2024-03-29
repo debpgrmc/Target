@@ -1,5 +1,5 @@
 #PRIMEIRA QUESTÃO:
-'''A variável, soma é uma variável de soma acumulada que vai somar os 13 termos da sequência (quantidade definida pela variável K).
+'''A variável soma é uma variável de soma acumulada que vai somar os 13 termos da sequência (quantidade definida pela variável K).
 Desta forma, a variável SOMA irá retornar o valor da soma da sequência de 1 a 13, ou seja: 1 + 2 + 3+ ... + 13. O que resultará em SOMA = 91'''
 
 
